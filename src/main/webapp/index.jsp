@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <body>
 <h2>War file deployed into amazon EC2 instance using multibranch2.0
 "Success"</h2>
- <h3> welcome to docker image creation 12</h3>
+ <h3> welcome to docker image creation </h3>
 </body>
 </html>
